@@ -1,0 +1,515 @@
+1696083810809	geckodriver	INFO	Listening on 127.0.0.1:61101
+1696083813863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofileI7PDG5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696083814155	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696083814247	Marionette	INFO	Listening on port 61116
+WebDriver BiDi listening on ws://127.0.0.1:61102
+Read port: 61116
+1696083814441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61102/devtools/browser/a5503622-d4ab-4dfa-a375-13d55fe9ab5e
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 1682 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 3887 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 3133 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5197 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 5053 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 1065 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 7077 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696083840779	Marionette	INFO	Stopped listening on port 61116
+JavaScript warning: https://d2wt7w75gg2vz.cloudfront.net/script.js line 1 > eval line 1 > eval, line 1: Script terminated by timeout at:
+ez@https://d2wt7w75gg2vz.cloudfront.net/script.js line 1 > eval line 1 > eval:1:85005
+
+JavaScript warning: https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696083832294%26ivc_click_tracker%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false, line 47: Script terminated by timeout at:
+get@https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696083832294%26ivc_click_tracker%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false:47:351
+isResponsive@https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696083832294%26ivc_click_tracker%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false:300:1520
+DisplayCanvasAppender.prototype.getSize@https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696083832294%26ivc_click_tracker%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false:532:65
+SCOPE.Canvas/this.getSize@https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696083832294%26ivc_click_tracker%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false:285:249
+monitorWindowWidth@https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696083832294%26ivc_click_tracker%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false:280:47
+
+Dynamically enable window occlusion 1
+1696083998580	geckodriver	INFO	Listening on 127.0.0.1:61548
+1696084001667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofileBE16se"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696084001933	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696084001993	Marionette	INFO	Listening on port 61559
+WebDriver BiDi listening on ws://127.0.0.1:61549
+Read port: 61559
+1696084002091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61549/devtools/browser/25fa3cde-423d-4c09-9511-e0ef541a2d5b
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 2922 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 155 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 1616 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 2886 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696084315687	geckodriver	INFO	Listening on 127.0.0.1:62214
+1696084318740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofileP1f4Aq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696084318963	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696084319033	Marionette	INFO	Listening on port 62243
+WebDriver BiDi listening on ws://127.0.0.1:62215
+Read port: 62243
+1696084319177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62215/devtools/browser/353d2b4a-204f-4da5-91eb-001f5b48d2ad
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 4921 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 1963 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5819 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 3328 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696084418001	geckodriver	INFO	Listening on 127.0.0.1:62465
+1696084421057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62466" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofile2CwJDg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696084421289	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696084421352	Marionette	INFO	Listening on port 62477
+WebDriver BiDi listening on ws://127.0.0.1:62466
+Read port: 62477
+1696084421493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62466/devtools/browser/417da518-5bd6-4048-b2d2-906326084023
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696084453956	geckodriver	INFO	Listening on 127.0.0.1:62656
+1696084457027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofilebmhWG2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696084457282	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696084457344	Marionette	INFO	Listening on port 62668
+WebDriver BiDi listening on ws://127.0.0.1:62657
+Read port: 62668
+1696084457475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62657/devtools/browser/2ee458a2-83d1-4692-9428-fac1c2d02082
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 2316 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5094 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 4292 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 3469 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696084565661	geckodriver	INFO	Listening on 127.0.0.1:63483
+1696084568714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63484" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofile5jP6s3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696084568990	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696084569117	Marionette	INFO	Listening on port 63495
+WebDriver BiDi listening on ws://127.0.0.1:63484
+Read port: 63495
+1696084569259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63484/devtools/browser/3d37666a-9fba-4079-9b36-b4881f29f599
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 1292 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5896 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 6597 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 513 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696084740788	geckodriver	INFO	Listening on 127.0.0.1:63967
+1696084743825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63968" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofileh6EuG9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696084744074	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696084744157	Marionette	INFO	Listening on port 63979
+WebDriver BiDi listening on ws://127.0.0.1:63968
+Read port: 63979
+1696084744367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63968/devtools/browser/538eed10-00d5-42ab-9132-692b84465534
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 4390 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 37 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 6496 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 6553 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 1234 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696084792803	geckodriver	INFO	Listening on 127.0.0.1:64297
+1696084795942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64298" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofileb53ir0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696084796155	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696084796222	Marionette	INFO	Listening on port 64308
+WebDriver BiDi listening on ws://127.0.0.1:64298
+Read port: 64308
+1696084796381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64298/devtools/browser/1c3a6a56-7799-4e5a-8e8a-7afc5327e618
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 1800 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 6079 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 2799 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 3269 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696084977104	geckodriver	INFO	Listening on 127.0.0.1:64874
+1696084980159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofile4KuN1F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696084980394	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696084980467	Marionette	INFO	Listening on port 64887
+WebDriver BiDi listening on ws://127.0.0.1:64875
+Read port: 64887
+1696084980692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64875/devtools/browser/09b271ea-dd64-4923-897f-44bb132755f3
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 6383 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 3373 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 3194 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 2087 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696085525456	geckodriver	INFO	Listening on 127.0.0.1:49285
+1696085528513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofileK1x54q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696085528758	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696085528829	Marionette	INFO	Listening on port 49296
+WebDriver BiDi listening on ws://127.0.0.1:49286
+Read port: 49296
+1696085528957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49286/devtools/browser/514adc95-5eb2-4910-b91c-cc21274ca99d
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 957 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 7300 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 718 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5530 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696085593558	geckodriver	INFO	Listening on 127.0.0.1:49900
+1696085596603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49901" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofileQigmYz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696085596843	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696085596906	Marionette	INFO	Listening on port 49914
+WebDriver BiDi listening on ws://127.0.0.1:49901
+Read port: 49914
+1696085597044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49901/devtools/browser/a9b22db9-4f96-42a1-adcf-7388591d46f9
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 1051 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 7042 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5125 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 252 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 447 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 4315 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696085740457	geckodriver	INFO	Listening on 127.0.0.1:50416
+1696085743517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofilez2e9iI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696085743756	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696085743842	Marionette	INFO	Listening on port 50428
+WebDriver BiDi listening on ws://127.0.0.1:50417
+Read port: 50428
+1696085743957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50417/devtools/browser/1e57ad10-4645-4efa-86a3-9ab900c508a5
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 3967 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 7602 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5310 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 5871 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 6167 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 921 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2535: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1696086901956	Marionette	INFO	Stopped listening on port 50428
+ettings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696085998297	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696085998363	Marionette	INFO	Listening on port 50949
+WebDriver BiDi listening on ws://127.0.0.1:50935
+Read port: 50949
+1696085998538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50935/devtools/browser/56b7524a-6d51-4824-9382-e7a4611cf711
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 7189 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696086021362	geckodriver	INFO	Listening on 127.0.0.1:51157
+1696086024405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51158" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofileQ9yw8Q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696086024625	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696086024693	Marionette	INFO	Listening on port 51169
+WebDriver BiDi listening on ws://127.0.0.1:51158
+Read port: 51169
+1696086024853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51158/devtools/browser/3ec2f57f-3ab6-4340-809d-e0a792650d79
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 1461 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5984 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 4930 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696086056371	Marionette	INFO	Stopped listening on port 51169
+JavaScript warning: https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696086044108%26ivc_click_tracker%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false, line 47: Script terminated by timeout at:
+get@https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696086044108%26ivc_click_tracker%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false:47:351
+isResponsive@https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696086044108%26ivc_click_tracker%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false:300:1520
+DisplayCanvasAppender.prototype.getSize@https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696086044108%26ivc_click_tracker%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false:532:65
+SCOPE.Canvas/this.getSize@https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696086044108%26ivc_click_tracker%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false:285:249
+monitorWindowWidth@https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696086044108%26ivc_click_tracker%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false:280:47
+
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+1696086634120	geckodriver	INFO	Listening on 127.0.0.1:52498
+1696086637187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofileirl1Ej"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696086637708	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696086638308	Marionette	INFO	Listening on port 52520
+WebDriver BiDi listening on ws://127.0.0.1:52499
+Read port: 52520
+1696086638487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52499/devtools/browser/047781d4-3a69-4676-b332-87a35ce42a9d
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.30.min.js, line 1: Error: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 3468 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 5633 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 7762 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5945 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696086718041	Marionette	INFO	Stopped listening on port 52520
+JavaScript warning: https://www.nba.com/newrelic/newrelic-prod.js, line 2: Script terminated by timeout at:
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:25922
+
+JavaScript warning: https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696086659790%26ivc_click_tracker%3D%26ivc_p%3DMTc5LjIwOS40Ni4xMjY%3D%26ivc_u%3DTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTE4LjA%3D%26ivc_ts%3DMTY5NjA4NjY1OTc5MA%3D%3D%26ivc_r%3Db3JlZ29u%26ivc_al%3DcHQtQlIscHQ7cT0wLjgsZW4tVVM7cT0wLjUsZW47cT0wLjM%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false, line 280: Script terminated by timeout at:
+monitorWindowWidth@https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696086659790%26ivc_click_tracker%3D%26ivc_p%3DMTc5LjIwOS40Ni4xMjY%3D%26ivc_u%3DTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTE4LjA%3D%26ivc_ts%3DMTY5NjA4NjY1OTc5MA%3D%3D%26ivc_r%3Db3JlZ29u%26ivc_al%3DcHQtQlIscHQ7cT0wLjgsZW4tVVM7cT0wLjUsZW47cT0wLjM%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false:280:42
+
+Dynamically enable window occlusion 1
+1696086805764	geckodriver	INFO	Listening on 127.0.0.1:53211
+1696086808821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53212" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\andre\\AppData\\Local\\Temp\\rust_mozprofileaVHfU8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696086809141	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696086809213	Marionette	INFO	Listening on port 53225
+WebDriver BiDi listening on ws://127.0.0.1:53212
+Read port: 53225
+1696086809375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53212/devtools/browser/7d1af7ad-7ec0-4993-b7fc-7c0ea472e0e6
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/0wuZ9vcduU/8T/-z7cTWlM/paXu2bYbEO/biVUdhwB/Ji5VR/xAiKn4B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 6183 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 564 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 5428 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 4401 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696086867003	Marionette	INFO	Stopped listening on port 53225
+JavaScript warning: https://d2wt7w75gg2vz.cloudfront.net/script.js line 1 > eval line 1 > eval, line 1: Script terminated by timeout at:
+ez@https://d2wt7w75gg2vz.cloudfront.net/script.js line 1 > eval line 1 > eval:1:85005
+
+JavaScript warning: https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696086835115%26ivc_click_tracker%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false, line 280: Script terminated by timeout at:
+monitorWindowWidth@https://s-static.innovid.com/mobileapps/s/js/default/15j6mr?cb=e1c7a397-952b-cd2e-2ce4-bfb218a9fa33&deviceid=&ivc=cb%3D1696086835115%26ivc_click_tracker%3D%26audience_id%3D32460394%26iv_geo_dma%3D%26iv_geo_country%3DBR%26iv_geo_city%3DS%C3%A3o+Paulo%26iv_geo_state%3DSP%26iv_geo_zip%3D01000%26iv_geo_lat%3D-23.6283%26iv_geo_lon%3D-46.6409&pref=false:280:42
+
+Dynamically enable window occlusion 1
